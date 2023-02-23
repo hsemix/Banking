@@ -87,43 +87,6 @@
         }
       },
       {
-        "HashCode": 438926904,
-        "Kind": "Components.Component",
-        "Name": "Banking.Pages.Index",
-        "AssemblyName": "Banking",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Banking.Pages.Index",
-          "Common.TypeNamespace": "Banking.Pages",
-          "Common.TypeNameIdentifier": "Index"
-        }
-      },
-      {
-        "HashCode": 1951109776,
-        "Kind": "Components.Component",
-        "Name": "Banking.Pages.Index",
-        "AssemblyName": "Banking",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Banking.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Banking.Pages.Index",
-          "Common.TypeNamespace": "Banking.Pages",
-          "Common.TypeNameIdentifier": "Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 1522692706,
         "Kind": "Components.Component",
         "Name": "Banking.Shared.SurveyPrompt",
