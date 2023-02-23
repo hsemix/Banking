@@ -124,43 +124,6 @@
         }
       },
       {
-        "HashCode": -73784139,
-        "Kind": "Components.Component",
-        "Name": "Banking.App",
-        "AssemblyName": "Banking",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Banking.App",
-          "Common.TypeNamespace": "Banking",
-          "Common.TypeNameIdentifier": "App"
-        }
-      },
-      {
-        "HashCode": -1212856854,
-        "Kind": "Components.Component",
-        "Name": "Banking.App",
-        "AssemblyName": "Banking",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Banking.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Banking.App",
-          "Common.TypeNamespace": "Banking",
-          "Common.TypeNameIdentifier": "App",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 1522692706,
         "Kind": "Components.Component",
         "Name": "Banking.Shared.SurveyPrompt",
@@ -359,6 +322,43 @@
           "Common.TypeName": "Banking.Shared.NavMenu",
           "Common.TypeNamespace": "Banking.Shared",
           "Common.TypeNameIdentifier": "NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -73784139,
+        "Kind": "Components.Component",
+        "Name": "Banking.App",
+        "AssemblyName": "Banking",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Banking.App",
+          "Common.TypeNamespace": "Banking",
+          "Common.TypeNameIdentifier": "App"
+        }
+      },
+      {
+        "HashCode": -1212856854,
+        "Kind": "Components.Component",
+        "Name": "Banking.App",
+        "AssemblyName": "Banking",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Banking.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Banking.App",
+          "Common.TypeNamespace": "Banking",
+          "Common.TypeNameIdentifier": "App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
